@@ -17,9 +17,9 @@ Predict reserves, select the 200 most promising wells among 500 studied location
 
 | Region | Average simulated profit | Central 95% bootstrap range | Loss risk |
 |---|---:|---:|---:|
-| 0 | $3.96M | $-1.11M to $9.10M | 6.9% |
-| 1 | $4.61M | $0.78M to $8.63M | 0.7% |
-| 2 | $3.93M | $-1.12M to $9.35M | 6.5% |
+| 0 | USD 3.96M | USD -1.11M to USD 9.10M | 6.9% |
+| 1 | USD 4.61M | USD 0.78M to USD 8.63M | 0.7% |
+| 2 | USD 3.93M | USD -1.12M to USD 9.35M | 6.5% |
 
 ## Recommendation
 **Region 1** is the only region satisfying the required risk threshold and also has the highest simulated average profit among eligible regions.
